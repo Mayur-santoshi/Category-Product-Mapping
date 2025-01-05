@@ -1,4 +1,4 @@
-Category Product Mapping Application
+<h1>Category Product Mapping Application</h1>
 
 Welcome to the Category Product Mapping Application, a robust solution for managing and maintaining relationships between product categories and their associated products. This project was built with an emphasis on scalability, performance, and user-friendly features to simplify operations in business processes.
 
